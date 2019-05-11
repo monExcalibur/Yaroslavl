@@ -1,6 +1,9 @@
 body {
-    background: #c756da url(404.jpg);
-    background-repeat: no-repeat;
+	background-color: #90caf9;
     width: 100% ;
-    color: #fff; 
+    color: #fff ;
+}
+img {
+	width: 1000px;
+	height: auto;
 }
